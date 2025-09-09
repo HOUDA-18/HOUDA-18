@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Houda Chaanbi  
 
-🎓 2nd-year **Software Engineering Student (DevOps Track)** @ [ESPRIT School of Engineering](https://esprit.tn)  
+🎓 3nd-year **Software Engineering Student (DevOps Track)** @ [ESPRIT School of Engineering](https://esprit.tn)  
 💻 Passionate about **DevOps, Full-Stack Development, and Cloud Architecture**  
 🌍 Based in **Ariana, Tunisia**  
 📫 Reach me at **chambihouda@gmail.com**  
