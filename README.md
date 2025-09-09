@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Houda Chaanbi  
 
-🎓 3nd-year **Software Engineering Student (DevOps Track)** @ [ESPRIT School of Engineering](https://esprit.tn)  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70059&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;⚙️+DevOps+Engineer;☁️+Cloud+Architecture+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+🎓 2nd-year **Software Engineering Student (DevOps Track)** @ [ESPRIT School of Engineering](https://esprit.tn)  
 💻 Passionate about **DevOps, Full-Stack Development, and Cloud Architecture**  
 🌍 Based in **Ariana, Tunisia**  
 📫 Reach me at **chambihouda@gmail.com**  
