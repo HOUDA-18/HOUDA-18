@@ -6,36 +6,14 @@
   </a>
 </p>
 
-🎓 2nd-year **Software Engineering Student (DevOps Track)** @ [ESPRIT School of Engineering](https://esprit.tn)  
+🎓 3rd-year **Software Engineering Student (DevOps Track)** @ [ESPRIT School of Engineering](https://esprit.tn)  
 💻 Passionate about **DevOps, Full-Stack Development, and Cloud Architecture**  
 🌍 Based in **Ariana, Tunisia**  
 📫 Reach me at **chambihouda@gmail.com**  
 
 ---
 
-## 🚀 Experience  
 
-### 💡 DevOps Engineer Intern — *Orange Digital Center Tunisia* (Jul – Sep 2025)  
-**Event Toolbox – Event Management Platform**  
-- Built **CI/CD pipelines** with *Azure DevOps*  
-- Automated workflows: dependency install, linting (**ESLint, Prettier**), testing (**Jest**), code quality (**SonarQube**), security scanning (**Trivy**)  
-- Containerized apps with **Docker** & deployed to **Azure Container Apps**  
-- Ensured **scalable, secure, and reliable** deployments  
-
-### 💻 Full-Stack Developer Intern — *Banque Nationale Agricole* (Jul – Aug 2024)  
-- Developed a **cheque request module** for *Smile app*  
-- Technologies: **Spring Boot, Angular, REST API, MySQL**  
-
----
-
-## 🎓 Academic Projects  
-
-- 📌 **Recruitment System (ATS)** – *React.js + Node.js + CI/CD*  
-- 📌 **Library Management System** – *Microservices (Spring Boot, Eureka, API Gateway, RabbitMQ, Keycloak, Config Server) + Angular*  
-- 📌 **DevOps CI/CD Project** – *Jenkins, JUnit, SonarQube, Nexus, Docker, Grafana, Prometheus*  
-- 📌 **Blood Transfusion Centers Management** – *C Programming*  
-
----
 
 ## 🛠 Tech Stack  
 
