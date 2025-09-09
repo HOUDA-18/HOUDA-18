@@ -43,7 +43,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HOUDA-18&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HOUDA-18&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HOUDA-18&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HOUDA-18&theme=radical&hide_border=false)
 
 ---
 
