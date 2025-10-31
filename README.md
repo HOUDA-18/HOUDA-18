@@ -25,31 +25,26 @@
 
 
 **Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)  ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
+
 
 **Backend:**  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)  
 
+
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
-![H2](https://img.shields.io/badge/H2-grey)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  ![H2](https://img.shields.io/badge/H2-grey)  
 
 **DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)  
-![SonarQube](https://img.shields.io/badge/SonarQube-blue?logo=sonarqube&logoColor=white)  
-![Nexus](https://img.shields.io/badge/Nexus-grey?logo=sonatype&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana&logoColor=white)  
-![Trivy](https://img.shields.io/badge/Trivy-purple?logo=aqua&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)  ![SonarQube](https://img.shields.io/badge/SonarQube-blue?logo=sonarqube&logoColor=white)  
+![Nexus](https://img.shields.io/badge/Nexus-grey?logo=sonatype&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white) 
+ ![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana&logoColor=white)  ![Trivy](https://img.shields.io/badge/Trivy-purple?logo=aqua&logoColor=white)  
 ![Azure DevOps](https://img.shields.io/badge/AzureDevOps-blue?logo=azuredevops&logoColor=white)  
+ 
+
 
 **Cloud & Architecture:**  
 Microservices • API Gateway • Eureka • RabbitMQ • Keycloak  
